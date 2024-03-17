@@ -108,7 +108,7 @@ void loop()
       
             dsply.displayString(chrsettemp);
             dsply.setDot(3,true);
-            if(dlaytoshow>=15){
+            if(dlaytoshow>=16){
               oldsettemp=newsettemp;
               dlaytoshow=0;
             }
